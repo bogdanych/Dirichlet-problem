@@ -1,0 +1,5 @@
+C:\Users\max22\OneDrive\Рабочий стол\учеба\ЧМ\6 сем\дирихле\Graphics-ZedGraph-master-main\Graphics-ZedGraph-master\Debug\ZedGraph.dll
+C:\Users\max22\OneDrive\Рабочий стол\учеба\ЧМ\6 сем\дирихле\Graphics-ZedGraph-master-main\Graphics-ZedGraph-master\Graph\Debug\Graph.vcxproj.AssemblyReference.cache
+C:\Users\max22\OneDrive\Рабочий стол\учеба\ЧМ\6 сем\дирихле\Graphics-ZedGraph-master-main\Graphics-ZedGraph-master\Graph\Debug\Graph.MyForm.resources
+C:\Users\max22\OneDrive\Рабочий стол\учеба\ЧМ\6 сем\дирихле\Graphics-ZedGraph-master-main\Graphics-ZedGraph-master\Graph\Debug\Graph.vcxproj.GenerateResource.cache
+C:\Users\max22\OneDrive\Рабочий стол\учеба\ЧМ\6 сем\дирихле\Graphics-ZedGraph-master-main\Graphics-ZedGraph-master\Graph\Debug\Graph.vcxproj.Up2Date
